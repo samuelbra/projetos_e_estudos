@@ -6,7 +6,7 @@ Este projeto é um formulário de criação de conta simples, estilizado com CSS
 
 ## Layout
 
-![Layout do Formulário](./im).
+![WhatsApp Image 2024-05-15 at 14 25 23](https://github.com/samuelbra/projetos_e_estudos/assets/68450092/39c0ac18-08ef-4dc1-ace3-aa8927b30576)
 
 ## Estrutura do Projeto
 
